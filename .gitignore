@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+
+# Large training data (not needed to run the app)
+dataset/
+
+# raw dataset (the notebook downloads it again from NYC Open Data)
+dataset/
