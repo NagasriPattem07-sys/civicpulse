@@ -6,9 +6,8 @@ system classifies it, recommends the responsible department, estimates
 confidence and flags urgency, so officials receive organised complaints
 instead of raw text. Every result is recommended for human review.
 
-**Live demo:** _add your Streamlit link here_
+**Live demo:** https://civicpulse-grievance.streamlit.app/
 
-![CivicPulse screenshot](screenshot.png)
 
 ## Features
 
